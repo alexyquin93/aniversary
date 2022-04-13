@@ -1,0 +1,35 @@
+.motivo{
+    font-family: 'Lobster', cursive;
+    font-size: 37pt;
+    line-height: 46px;
+    margin-left: 11.7%;
+}
+.cardUno{
+    font-family: 'Cabin', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+.dedicatoria{
+    font-family: 'Cabin', sans-serif;
+    font-size: 1.25rem;
+    text-align: center;
+    color: white;
+}
+.contenido{
+    font-family: 'Cabin', sans-serif;
+    font-size: 1rem;
+}
+.emoji{
+    width: 3rem;
+    margin-left: 40%;
+}
+.textofinal{
+    font-family: 'Cabin', sans-serif;
+    font-size: 1.9em;
+}
+.cardDos{
+    text-align: center;
+    color: white;
+}
